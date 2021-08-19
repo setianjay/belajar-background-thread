@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyBackgroundThread</string>
+    <string name="executor">Executor</string>
+    <string name="coroutine">Coroutine</string>
+    <string name="now_you_look_me">Now you look me!</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="percentage">%d %%</string>
 </resources>
